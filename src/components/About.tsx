@@ -1,5 +1,5 @@
 import { Code2 } from 'lucide-react';
-import TobyImage from '../assets/Toby.png';
+import TobyImage from '../assets/toby.jpg';
 
 const About = () => {
   return (
