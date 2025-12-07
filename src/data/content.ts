@@ -28,8 +28,8 @@ export const SKILLS = {
   frameworks: ["React.js", "React Native", "Next.js", "Expo"],
   styling: ["Tailwind CSS", "Styled Components", "SASS"],
   state: ["Redux Toolkit", "Context API", "Zustand"],
-  backend_tools: ["Firebase", "REST APIs", "Node.js (Basic)", "Postman"],
-  other: ["Git/GitHub", "VS Code", "Agile/Scrum", "UI/UX Implementation"]
+  backend_tools: ["Firebase", "REST APIs", "Node.js (Basic)"],
+  other: ["Git/GitHub", "VS Code", "UI/UX Implementation"]
 };
 
 // FULLY UPDATED REAL PROJECTS
